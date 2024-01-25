@@ -1,4 +1,9 @@
-### Hi there 👋
+### ¡Hola a todos! 👋
+## Mi nombre es Alondra Sarai ✨, actualmente estoy cursando la licenciatura de Sistemas Computacionales. Me interesa mucho aprender diseño UX/UI.
+-⚡ HTML Y CSS
+-⚡ JAVA
+-🌱 Actualmente estoy aprendiendo Python
+-📫 Puedes encontrarme en Linkedln como Alondra S Palma
 
 <!--
 **AlondraPalma23/AlondraPalma23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

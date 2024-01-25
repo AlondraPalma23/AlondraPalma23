@@ -1,5 +1,5 @@
 ### ¡Hola a todos! 👋
-## Mi nombre es Alondra Sarai ✨, actualmente estoy cursando la licenciatura de Sistemas Computacionales. Me interesa mucho aprender diseño UX/UI.
+# Mi nombre es Alondra Sarai ✨, actualmente estoy cursando la licenciatura de Sistemas Computacionales. Me interesa mucho aprender diseño UX/UI.
 -⚡ HTML Y CSS
 -⚡ JAVA
 -🌱 Actualmente estoy aprendiendo Python
